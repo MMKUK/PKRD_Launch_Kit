@@ -1,0 +1,29 @@
+PKRD Genesis Chain Constitution
+=================================================
+This Constitution defines the immutable laws of the PKRD Genesis Blockchain.
+
+1. Chain Identity
+-----------------
+- Name: PKRD Genesis Chain
+- Creator: Muhammad Mohsin Khan (MMKUK)
+- Created: April 2025
+- Founder Wallet Address: 0x6a517CCcf02eE802FAfDd0b9E3AC9ab039ccd465
+
+2. Governance
+-------------
+- No DAO. No human control. The chain is eternal and autonomous.
+- No mining, no staking.
+- Fixed supply: 100 million PKRD.
+- 100% transaction fees go to node operators.
+
+3. Security & Privacy
+----------------------
+- AI Consensus
+- zk-RingCT Privacy
+- Quantum-Resistant Ledger
+
+4. Finality
+-----------
+- This document, the Genesis Block, and the Signature File define the start of the PKRD Genesis Chain.
+
+=================================================

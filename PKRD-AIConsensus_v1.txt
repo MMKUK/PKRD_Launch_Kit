@@ -1,0 +1,13 @@
+PKRD AI Consensus Engine
+
+Overview:
+- AI-based validator rotation using statistical models
+- No staking, no mining
+- Self-improving based on network behavior
+
+Features:
+- Probabilistic validator election
+- Reinforcement learning feedback loop
+- Byzantine fault tolerance with AI model-driven thresholds
+
+File: ai_consensus_stub.py

@@ -1,0 +1,13 @@
+PKRD Quantum-Resistant Ledger
+
+Overview:
+- Uses XMSS/Falcon signature schemes
+- Post-quantum safe keypairs
+- Compatible with future wallet infrastructure
+
+Features:
+- XMSS tree-based signature
+- Integration with Ledger and secure enclaves
+- No backward compatibility with ECDSA
+
+File: quantum_safe_module_stub.py

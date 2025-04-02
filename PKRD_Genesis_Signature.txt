@@ -1,0 +1,16 @@
+PKRD Genesis Signature Declaration
+
+This file certifies the authenticity of the Genesis Block and Constitution
+as declared and published by Muhammad Mohsin Khan (MMKUK) on GitHub.
+
+----------------------------------------
+🔐 SHA256 Signature of Combined Files:
+6c99268397df61ac7c4c632a51215dbb2c819218eea2e944d9a35b8e3f5ba245
+----------------------------------------
+
+Files Included in this Signature:
+- PKRD_Genesis_Block.json
+- PKRD_Constitution.txt
+
+Date: April 2025
+Repository: https://github.com/MMKUK/PKRD_Genesis

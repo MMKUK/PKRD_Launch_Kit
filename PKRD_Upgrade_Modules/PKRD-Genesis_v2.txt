@@ -1,0 +1,15 @@
+PKRD Genesis Block v2
+
+Overview:
+- New founder address: 0x6a517CCcf02eE802FAfDd0b9E3AC9ab039ccd465
+- Market wallet: 0x294b05aab624630B13b3962012c828d57Fb1189B
+- Updated consensus: AI + zk-RingCT + Quantum
+- Network ID: 98765
+
+Features:
+- No staking or mining
+- AI controls consensus
+- zk-RingCT as TX layer
+- Quantum-safe keys only
+
+Genesis Hash: To be generated during deployment
