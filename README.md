@@ -1,15 +1,43 @@
-# zk-RingCT Privacy Module for PKRD Blockchain
+# 🚀 PKRD Launch Kit
 
-## Overview
-This module integrates advanced zk-SNARKs with RingCT-inspired mechanisms to provide next-generation privacy for transactions.
+Welcome to the official launch kit for **PKRD Genesis Chain** — the world’s most advanced blockchain featuring:
 
-### Features:
-- Zero-knowledge proof integration with zk-SNARKs
-- Ring signature-style obfuscation to hide input-output linkage
-- Fully confidential transaction amounts
-- No leakage of sender, receiver, or amount
+- 🔐 **zk-RingCT Privacy**  
+- 🧠 **AI Consensus Engine**  
+- 🧬 **Living Chain Protocol**  
+- 🛡 **Genesis Integrity Watchdog**  
+- 💥 **Quantum-Resistant Ledger**  
+- ⚡ **1 Billion TPS Engine (ChainScaler)**  
+- 🌉 **zkBridge Cross-chain Privacy Layer**
 
-## Usage
-1. Run `install_zk.sh` to set up dependencies.
-2. Use `zk_ringct_core.py` within your node logic to validate and process private transactions.
-3. Ensure all node validators have the same module for transaction consensus.
+---
+
+## 📁 Folders Overview
+
+| Folder Name         | Purpose |
+|---------------------|---------|
+| `PKRD_Modules/`     | All modules (Privacy, AI, Quantum, etc.) |
+| `GenesisMonitor/`   | Watchdog for Genesis integrity |
+| `Khan10/`           | Contains the final `pkrd_clique_genesis_final.json` |
+| `PKRD_Boot/`        | Boot scripts for full system startup |
+| `PKRD_WALLET/`      | Wallet generator & interface |
+| `index.html`        | GitHub Pages homepage |
+| `README.md`         | This file |
+
+---
+
+## ⚙️ Requirements
+
+- Docker (latest)
+- Python 3.9+
+- Mac/Linux or WSL on Windows
+
+---
+
+## 🔧 How to Launch PKRD Chain
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/MMKUK/PKRD_Launch_Kit.git
+cd PKRD_Launch_Kit
