@@ -1,6 +1,6 @@
 # ⚡ PKRD ChainScaler Module
 
-The ChainScaler module equips the PKRD Genesis Chain with simulated support for 1 Billion TPS.
+The ChainScaler module equips the PKRD Blockchain with simulated support for 1 Billion TPS.
 
 ### Features:
 - Transaction Batching Engine (mock)
