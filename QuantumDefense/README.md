@@ -1,7 +1,7 @@
 # 🔒 Quantum Defense Layer — PKRD Blockchain
 
 ## Overview
-The Quantum Defense Layer fortifies the PKRD Genesis Chain with quantum-resistance, ensuring long-term security even against quantum computers.
+The Quantum Defense Layer fortifies the PKRD Blockchain with quantum-resistance, ensuring long-term security even against quantum computers.
 
 ## Features
 - ✅ Lattice-based cryptography
