@@ -1,10 +1,10 @@
-PKRD Genesis Chain Constitution
+PKRD Blockchain Constitution
 =================================================
-This Constitution defines the immutable laws of the PKRD Genesis Blockchain.
+This Constitution defines the immutable laws of the PKRD Blockchain.
 
 1. Chain Identity
 -----------------
-- Name: PKRD Genesis Chain
+- Name: PKRD Blockchain
 - Creator: Muhammad Mohsin Khan (MMKUK)
 - Created: April 2025
 - Founder Wallet Address: 0x6a517CCcf02eE802FAfDd0b9E3AC9ab039ccd465
@@ -24,6 +24,6 @@ This Constitution defines the immutable laws of the PKRD Genesis Blockchain.
 
 4. Finality
 -----------
-- This document, the Genesis Block, and the Signature File define the start of the PKRD Genesis Chain.
+- This document, the Genesis Block, and the Signature File define the start of the PKRD Blockchain.
 
 =================================================
