@@ -1,6 +1,6 @@
 # 🚀 PKRD Launch Kit
 
-Welcome to the official launch kit for **PKRD Genesis Chain** — the world’s most advanced blockchain featuring:
+Welcome to the official launch kit for **PKRD Blockchain** — the world’s most advanced blockchain featuring:
 
 - 🔐 **zk-RingCT Privacy**  
 - 🧠 **AI Consensus Engine**  
