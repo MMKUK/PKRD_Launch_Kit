@@ -1,6 +1,6 @@
 # Living Chain Protocol
 
-The Living Chain Protocol is a core resilience system for the PKRD Genesis Chain. It ensures the blockchain remains alive, healthy, and self-healing over time, without centralized oversight.
+The Living Chain Protocol is a core resilience system for the PKRD Blockchain. It ensures the blockchain remains alive, healthy, and self-healing over time, without centralized oversight.
 
 ## Features
 
