@@ -3,7 +3,7 @@ import hashlib
 import os
 
 # ✅ Path to the Genesis JSON file
-GENESIS_PATH = os.path.expanduser("~/Desktop/Khan10/PKRD_Genesis_Block.json")
+GENESIS_PATH = os.path.expanduser("~/Desktop/Khan10/PKRD_Blockchain_Genesis.json")
 
 # ✅ Path to saved valid hash
 HASH_PATH = os.path.expanduser("~/Desktop/Khan10/GenesisMonitor/.genesis_hash")
@@ -19,7 +19,7 @@ import hashlib
 import os
 
 # ✅ Set the paths
-GENESIS_PATH = os.path.expanduser("~/Desktop/Khan10/PKRD_Genesis_Block.json")
+GENESIS_PATH = os.path.expanduser("~/Desktop/Khan10/PKRD_Blockchain_Genesis.json")
 HASH_PATH = os.path.expanduser("~/Desktop/Khan10/GenesisMonitor/.genesis_hash")
 
 def compute_file_hash(file_path):
